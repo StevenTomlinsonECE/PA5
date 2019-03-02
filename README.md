@@ -1,2 +1,2 @@
-# CSE-222-PA-5
+# PA5
 Class project
