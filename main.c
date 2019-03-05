@@ -1,7 +1,7 @@
 /*
 Trever Hibbs
 Connor "lastname"
-"name"
+Steven Tomlinson
 
 This program is meant to compute the maximum value that can be loaded into a 
 knapsack with a maximum weight capacity of 1024, when given a list of no more
@@ -17,6 +17,6 @@ then exit.
 #include"pa5.h"
 
 void main(int argv, char** argv){
-
+// Initialize a 
 	
 } 
